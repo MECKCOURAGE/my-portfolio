@@ -1,7 +1,7 @@
 import './index.css'
 import FirstPage from './pages/Firstpage'
 import Secondpage from './pages/Secondpage'
-import FooterPage from './pages/footerPage'
+import FooterPage from './pages/FooterPage'
 import { useEffect } from 'react'
 
 function App() {
