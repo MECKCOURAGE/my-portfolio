@@ -1,0 +1,45 @@
+[
+    {
+        "image": "./images/projects/rest-country-api.png",
+        "name": "REST Countries API",
+        "content": "The REST Countries API project is a web app that provides detailed country information. Users can search countries by name, filter by region, and view data such as population, capital, languages, currencies, and neighbors. Built with React, it uses API integration for dynamic data fetching.",
+        "github": "https://github.com/MECKCOURAGE/rest_countries_api/",
+        "link": "https://meckcourage.github.io/rest_countries_api/"
+    },
+    {
+        "image": "./images/projects/interactive-comment-section.png",
+        "name": "Comment Feed",
+        "content": "The Comment Feed project is a dynamic web app for user interactions. Users can post, reply, and edit comments, with features like upvoting, deleting, and nested replies. Built with React and styled with Tailwind CSS, it focuses on responsive design and user-friendly interfaces.",
+        "github": "https://github.com/MECKCOURAGE/interactive-comment-section",
+        "link": "https://meckcourage.github.io/interactive-comment-section/"
+    },
+    {
+        "image": "./images/projects/Investment-Calculator.png",
+        "name": "Investment Calculator",
+        "content":  "The Investment Calculator helps users calculate investment growth by inputting parameters like initial investment and interest rate. Built with React, it features interactive charts and real-time results, focusing on ease of use and responsiveness.",
+        "github": "https://github.com/MECKCOURAGE/react-investment-calculator",
+        "link": "https://meckcourage.github.io/react-investment-calculator/"
+    },
+    {
+        "image": "./images/projects/tic-tac-toe.png",
+        "name": "Tic Tac Toe Game",
+        "content": "The Tic Tac Toe Game is a two-player web app where players alternate marking Xs and Os on a 3x3 grid. Built with React, it features responsive design, interactive gameplay, and efficient state management, showcasing component-based architecture and logic handling.",
+        "github": "https://github.com/MECKCOURAGE/tic-tac-toe.git",
+        "link": "https://meckcourage.github.io/tic-tac-toe/"
+    },
+    {
+        "image": "./images/projects/React-quiz.png",
+        "name": "React Quiz",
+        "content": "The React Quiz is an interactive app for testing knowledge with multiple-choice questions, feedback, and score tracking. Built with React, it features dynamic rendering, state management, and responsive design.",
+        "github": "https://github.com/MECKCOURAGE/quiz-react_project",
+        "link": "https://meckcourage.github.io/quiz-react_project/"
+    },
+    {
+        "image": "./images/projects/Elegant-context.png",
+        "name": "Elegant Context",
+        "content": "Elegant Context is an online clothing app where users can browse stylish apparel, view product details, and easily manage their cart. Built with React, it offers smooth navigation, responsive design, and a clean interface, providing a seamless and enjoyable shopping experience.",
+        "github": "https://github.com/MECKCOURAGE/using_context_api",
+        "link": "https://meckcourage.github.io/using_context_api/"
+    }
+    
+]
